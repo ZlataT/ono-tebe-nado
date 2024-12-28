@@ -1,1 +1,1 @@
-https://github.com/ZlataT/ono-tebe-nado.git
+https://zlatat.github.io/ono-tebe-nado/
